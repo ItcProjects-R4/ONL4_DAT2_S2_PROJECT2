@@ -162,7 +162,7 @@ ONL4_DAT2_TEAM 2 _ Investment Consultant/
 │
 ├── 5 Documentation/
 │   ├── Dataset overview and schema Final     # Data dictionary describing tables and columns
-│   └── Real Estate Consultant Documentation    # Full project report (problem, methodology, results)
+│   └── Real_Estate_Consultant_Documentation_Final    # Full project report (problem, methodology, results)
 │
 └── 6 Presentation/
     └── KSA Real Estate Analysis Presentation  # Final project presentation slides
