@@ -119,7 +119,6 @@ Or you can open it from this link directly `https://predicting-real-estate-price
 4. **Straeamlit App**
 
 ![Sreamlit_Desktop](screenshots/streamlit.png)
-![Sreamlit_Mobile](screenshots/streamlit%20mobile.jpg)
 
 <table>
   <tr>
