@@ -83,18 +83,28 @@ Or you can open it from this link directly `https://predicting-real-estate-price
 
 ## 🖼️ Screenshots
 
-![Input_Navigator](screenshots/input_navigator.png)
+![Input_Navigator](screenshots/Input_Navigator.png)
 ![Market_Insights](screenshots/Market_Insights.png)
 ![Property_Analysis](screenshots/Property_Analysis.png)
 ![Property_Analysis 2](screenshots/Property_Analysis_2.png)
 ![Advanced_Analysis](screenshots/Advanced_Analysis.png)
-![Input_Navigator mobile](screenshots/mobile%201.jpg)
-![Input_Navigator mobile 2](screenshots/mobile%202.jpg)
-![Market_Insights mobile](screenshots/mobile%203.jpg)
-![Market_Insights mobile 2](screenshots/mobile%204.jpg)
-![Property_Analysis mobile](screenshots/mobile%205.jpg)
-![Property_Analysis mobile 2](screenshots/mobile%206.jpg)
-![Advanced_Analysis mobile](screenshots/mobile%207.jpg)
+<table>
+  <tr>
+    <td><img src="screenshots/mobile%201.jpg" width="250"/><br><sub>Input Navigator</sub></td>
+    <td><img src="screenshots/mobile%202.jpg" width="250"/><br><sub>Input Navigator 2</sub></td>
+    <td><img src="screenshots/mobile%203.jpg" width="250"/><br><sub>Market Insights</sub></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/mobile%204.jpg" width="250"/><br><sub>Market Insights 2</sub></td>
+    <td><img src="screenshots/mobile%205.jpg" width="250"/><br><sub>Property Analysis</sub></td>
+    <td><img src="screenshots/mobile%206.jpg" width="250"/><br><sub>Property Analysis 2</sub></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/mobile%207.jpg" width="250"/><br><sub>Advanced Analysis</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 ![EDA_Correlation_Martrix](screenshots/EDA%201.png)
 ![EDA_Histogram_Distribution](screenshots/EDA%202.png)
 ![EDA_Outliers_Boxplot](screenshots/EDA%203.png)
