@@ -92,17 +92,15 @@ Or you can open it from this link directly `https://predicting-real-estate-price
   <tr>
     <td><img src="screenshots/mobile%201.jpg" width="250"/><br><sub>Input Navigator</sub></td>
     <td><img src="screenshots/mobile%202.jpg" width="250"/><br><sub>Input Navigator 2</sub></td>
-    <td><img src="screenshots/mobile%203.jpg" width="250"/><br><sub>Market Insights</sub></td>
   </tr>
   <tr>
+    <td><img src="screenshots/mobile%203.jpg" width="250"/><br><sub>Market Insights</sub></td>
     <td><img src="screenshots/mobile%204.jpg" width="250"/><br><sub>Market Insights 2</sub></td>
     <td><img src="screenshots/mobile%205.jpg" width="250"/><br><sub>Property Analysis</sub></td>
-    <td><img src="screenshots/mobile%206.jpg" width="250"/><br><sub>Property Analysis 2</sub></td>
   </tr>
   <tr>
     <td><img src="screenshots/mobile%207.jpg" width="250"/><br><sub>Advanced Analysis</sub></td>
-    <td></td>
-    <td></td>
+    <td><td><img src="screenshots/mobile%206.jpg" width="250"/><br><sub>Property Analysis 2</sub></td></td>
   </tr>
 </table>
 ![EDA_Correlation_Martrix](screenshots/EDA%201.png)
