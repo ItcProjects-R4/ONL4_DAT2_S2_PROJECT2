@@ -83,13 +83,13 @@ Or you can open it from this link directly `https://predicting-real-estate-price
 
 ## 🖼️ Screenshots
 
-1. **EDA Visualization
+1. **EDA Visualization**
 
 ![EDA_Correlation_Martrix](screenshots/EDA%201.png)
 ![EDA_Histogram_Distribution](screenshots/EDA%202.png)
 ![EDA_Outliers_Boxplot](screenshots/EDA%203.png)
 
-2. **Power BI Dashboard
+2. **Power BI Dashboard**
 
 ![Input_Navigator](screenshots/Input_Navigator.png)
 ![Market_Insights](screenshots/Market_Insights.png)
@@ -97,7 +97,7 @@ Or you can open it from this link directly `https://predicting-real-estate-price
 ![Property_Analysis 2](screenshots/Property_Analysis_2.png)
 ![Advanced_Analysis](screenshots/Advanced_Analysis.png)
 
-3. **Mobile Layout
+**3. **Mobile Layout**
 <table>
   <tr>
     <td><img src="screenshots/mobile%201.jpg" width="250"/><br><sub>Input Navigator</sub></td>
@@ -116,10 +116,16 @@ Or you can open it from this link directly `https://predicting-real-estate-price
   </tr>
 </table>
 
-4. **Straeamlit App
+4. **Straeamlit App**
 
 ![Sreamlit_Desktop](screenshots/streamlit.png)
 ![Sreamlit_Mobile](screenshots/streamlit%20mobile.jpg)
+
+<table>
+  <tr>
+    <td><img src="screenshots/streamlit mobile.jpg" width="250"/><br><sub>Streamlit Mobile</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -165,22 +171,21 @@ ONL4_DAT2_TEAM 2 _ Investment Consultant/
 ---
 
 ## 🧩 Challenges Faced
-```
+
 1. Finding the most efficient dataset for the analysis and machine learning model.
 2. Handling the large dataset efficiently to improve performance and scalability, achieved by designing a Star Schema using SQL Server.
 3. Achieving the best possible model accuracy required a practical way to use latitude and longitude in a user-friendly Streamlit app. This was solved by replacing raw coordinates with KSA governorates as selectable input options.
 4. Documenting each phase of the project effectively, ensuring the documentation and presentation clearly reflect the team's work and capabilities.
-```
----
+
 
 ## 💡 Future Improvements
-```
+
 1. Connecting the dashboard directly to a real estate website database to get real-time market updates in a faster and easier way.
 2. Expanding coverage to include more countries such as Egypt, the UAE, Kuwait, and others.
 3. Enabling the model to recommend not only a predicted property price, but also a list of the most suitable locations and property types based on the user's preferences.
 4. Allowing the model to compare two different properties a customer is deciding between, helping them make the right choice.
 5. Designing a website and a mobile app where both customers and investors can navigate our services, search for properties, and list their own properties for sale.
-```
+
 ---
 
 ## 👥 Team Members
