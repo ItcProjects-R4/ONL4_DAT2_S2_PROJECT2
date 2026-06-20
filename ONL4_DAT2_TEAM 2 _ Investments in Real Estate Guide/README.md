@@ -94,7 +94,7 @@ Or you can open it from this link directly `https://predicting-real-estate-price
     <td><img src="screenshots/mobile%202.jpg" width="250"/><br><sub>Input Navigator 2</sub></td>
   </tr>
   <tr>
-    <td><img src="screenshots/mobile%203.jpg" width="250"/><br><sub>Market Insights</sub></td>
+    <td><img src="screenshots/mobile%203.jpg" width="450"/><br><sub>Market Insights</sub></td>
     <td><img src="screenshots/mobile%204.jpg" width="250"/><br><sub>Market Insights 2</sub></td>
   </tr>
   <tr>
