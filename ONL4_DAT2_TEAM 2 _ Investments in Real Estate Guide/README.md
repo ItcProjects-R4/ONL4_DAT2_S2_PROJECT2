@@ -95,7 +95,9 @@ Or you can open it from this link directly `https://predicting-real-estate-price
     <td><img src="screenshots/mobile%204.jpg" width="250"/><br><sub>Market Insights 2</sub></td>
   </tr>
 </table>
+
 ![Market_Insights](screenshots/Market_Insights.png)
+
 <table>
   <tr>
     <td><img src="screenshots/mobile%205.jpg" width="250"/><br><sub>Property Analysis</sub></td>
@@ -103,6 +105,7 @@ Or you can open it from this link directly `https://predicting-real-estate-price
     <td><img src="screenshots/mobile%206.jpg" width="250"/><br><sub>Property Analysis 2</sub></td>
   </tr>
 </table>
+
 ![EDA_Correlation_Martrix](screenshots/EDA%201.png)
 ![EDA_Histogram_Distribution](screenshots/EDA%202.png)
 ![EDA_Outliers_Boxplot](screenshots/EDA%203.png)
