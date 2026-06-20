@@ -52,8 +52,6 @@ This project delivers an end-to-end analytical solution that turns that market n
 
 ## 🚀 How to Run the Project
 
-## 🚀 How to Run the Project
-
 1. **Clone the repository**
 ```bash
    git clone https://github.com/ItcProjects-R4/ONL4_DAT2_S2_PROJECT2.git
@@ -79,6 +77,7 @@ This project delivers an end-to-end analytical solution that turns that market n
    Then open the local URL shown in your terminal (usually `http://localhost:8501`)
 ```
 Or you can open it from this link directly `https://predicting-real-estate-prices-in-saudi-arabia-ne64og9uhlvbyyzy.streamlit.app/`
+```
 
 ---
 
