@@ -75,9 +75,9 @@ This project delivers an end-to-end analytical solution that turns that market n
    streamlit run app.py
 ```
    Then open the local URL shown in your terminal (usually `http://localhost:8501`)
-```
-Or you can open it from this link directly `https://predicting-real-estate-prices-in-saudi-arabia-ne64og9uhlvbyyzy.streamlit.app/`
-```
+
+   Or you can open it from this link directly `https://predicting-real-estate-prices-in-saudi-arabia-ne64og9uhlvbyyzy.streamlit.app/`
+
 
 ---
 
