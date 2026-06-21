@@ -1,1 +1,0 @@
-SELECT TOP 10 * FROM VW_RealEstate_Full_Analysis;
